@@ -42,6 +42,7 @@ public class Move : MonoBehaviour {
             {
             rg.AddForce(Vector2.up * this.jumpPower);
         });
+
 	}
 	
 	// Update is called once per frame
